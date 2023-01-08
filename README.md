@@ -3,7 +3,7 @@ One of the limitations on the path to better print quality, higher accelerations
 
 Original dual rail mod by [@camerony](https://github.com/camerony) (https://github.com/camerony/VoronCustom/tree/main/V0.1_Dual_X_Rail_Carriage) is not compatible with Mini-AfterSherpa (https://github.com/PrintersForAnts/Mini-AfterSherpa) - as it lowers mount point too much, so extruder would collide with the X bracket (unless you install extruder backwards which will severely limit Y travel range). 
 
-In this mod - bracked is redesigned, mount points are shifted up 2mm.
+In this mod - bracket is redesigned, mount points are shifted up 2mm.
 As rigidigy of dual rail is much higher than needed - feel free to reduce infill to 20% and perimeters to 3 in the bracket if you want to save ~1g.
 
 Thickness of bottom part of the bracket is reduced to 2mm to make it easier to clear extrusions of Z axis. 
