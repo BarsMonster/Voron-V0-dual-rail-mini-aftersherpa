@@ -13,9 +13,11 @@ Z travel range is increased by 2mm.
 Free space above carriage is reduced by 2mm, so you will benefit of any of tophat mods with more space. 
 
 # Requires
-* Second MGN7 rail with MGN7H carriage, medium preload. 
+* Second 150mm MGN7 rail with MGN7H carriage, medium preload. 
 * Mod to raise X rail by 4mm : https://github.com/camerony/VoronCustom/tree/ebe7d462dfbc9d7f2f023d78ec90f3b2affd35e5/V0.1_Raise_X_Axis_Extrusion_by_4mm
 * 4x M2x5mm or M2x6mm screws to mount bottom rail. Recommended to get ultrathin ones, as it's quite tight on the bottom. If scews hit extrusions, and you only have regular hex screws - you can sand them down by ~0.5mm to make thinner head.
+* 2x M3 heat inserts
 
-![Dual rail assembled](r2-1.jpg)
-![Dual rail assembled](r2-2.jpg)
+![Dual rail assembled](images/2r-1.jpg)
+
+![Dual rail assembled](images/2r-2.jpg)
