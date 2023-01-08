@@ -11,7 +11,7 @@ Thickness of bottom part of the bracket is reduced to 2mm to make it easier to c
 # Travel range
 * XY travel range is unaffected. 
 * Z travel range is increased by 2mm. 
-* Free space above carriage is reduced by 2mm, so you will benefit of any of tophat mods with more space. 
+* Free space above carriage is reduced by 2mm, so you will benefit with any of tophat mods with more space. 
 
 # Homing
 It only supports sensorless homing on X axis. If we are saving weight - we must drop X endstop. 
@@ -22,6 +22,8 @@ As motors might slightly touch bottom carriage - homing procedure must be change
 * Do final Y axis homing
 
 This will ensure reliable homing regardless on position where it was left before. Triple homing is slower, but you can do it while heating up. Alternatively, you can add ~1mm spacers to make sure Y axis stops slightly before carriage can touch motors. Example sensorless homing config macro is included. 
+
+Alternatively, one can home to Y0 instead of Ymax. 
 
 # Requires
 * Second 150mm MGN7 rail with MGN7H carriage, medium preload. 
