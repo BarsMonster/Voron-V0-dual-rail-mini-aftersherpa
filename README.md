@@ -37,9 +37,11 @@ Alternatively, one can home to Y0 instead of Ymax.
 Note different amplitude scale. More prominent difference in on X, on Y everything is too wobly on single rail: 
 
 Single rail:
+
 ![Single rail](images/x_1r.png)
 
 Double rail:
+
 ![Single rail](images/x_2r.png)
 
 # Photos
