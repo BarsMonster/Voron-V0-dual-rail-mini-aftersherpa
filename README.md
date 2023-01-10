@@ -33,6 +33,17 @@ Alternatively, one can home to Y0 instead of Ymax.
 * 4x M2x5mm or M2x6mm screws to mount bottom rail. Recommended to get ultrathin ones, as it's quite tight on the bottom. If screws hit extrusions, and you only have regular hex screws - you can sand them down by ~0.5mm to make thinner head.
 * 2x M3 heat inserts
 
+# Resonance comparison
+Note different amplitude scale. More prominent difference in on X, on Y everything is too wobly on single rail: 
+
+Single rail:
+![Single rail](images/x_1r.png)
+
+Double rail:
+![Single rail](images/x_2r.png)
+
+# Photos
+
 ![Dual rail assembled](images/2r-1.jpg)
 
 ![Dual rail assembled](images/2r-2.jpg)
