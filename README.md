@@ -36,11 +36,11 @@ Alternatively, one can home to Y0 instead of Ymax.
 # Resonance comparison
 Note different amplitude scale. Recommended acceleration is 5x better. More prominent difference in on X, on Y everything is too wobly on single rail: 
 
-Single rail:
+**Single rail:**
 
 ![Single rail](images/x_1r.png)
 
-Double rail:
+**Double rail:**
 
 ![Single rail](images/x_2r.png)
 
