@@ -30,7 +30,7 @@ Alternatively, one can home to Y0 instead of Ymax.
 # Requires
 * Second 150mm MGN7 rail with MGN7H carriage, medium preload. 
 * 10xM2 nuts and 10x M2x6mm screws to mount secondary rail, print 1x standard nut carrier. 
-* Mod to raise X rail by 4mm : https://github.com/camerony/VoronCustom/tree/ebe7d462dfbc9d7f2f023d78ec90f3b2affd35e5/V0.1_Raise_X_Axis_Extrusion_by_4mm
+* Mod to raise X rail by 4mm : https://github.com/camerony/VoronCustom/tree/main/V0.1_Raise_X_Axis_Extrusion_by_4mm
 * 4x M2x5mm or M2x6mm screws to mount bottom rail. Recommended to get ultrathin ones, as it's quite tight on the bottom. If screws hit extrusions, and you only have regular hex screws - you can sand them down by ~0.5mm to make thinner head.
 * 2x M3 heat inserts
 
