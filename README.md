@@ -35,7 +35,7 @@ Alternatively, one can home to Y0 instead of Ymax.
 * 2x M3 heat inserts
 
 # Resonance comparison
-Note different amplitude scale. Recommended acceleration is 5x better. More prominent difference in on X, on Y everything is too wobly on single rail: 
+Note different amplitude scale. Recommended acceleration is 5x better. More prominent difference in on X, on Y everything is too wobly on single rail. It is possible that with high-quality rails difference would be less dramatic : 
 
 **Single rail:**
 
